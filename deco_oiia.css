@@ -3,7 +3,9 @@ h1{
     color:rgb(41, 252, 41);
 }
 .button{
-    width:30%;
-    margin-left:18%;
-    margin-right:0%;
+    width:75%;
+    position:absolute;
+    left:50%;
+    right:50%;
+    transform: translate(-50%);
 }
